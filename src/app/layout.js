@@ -14,7 +14,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={raleway.className}>
-        <div className="max-w-[1200px] m-auto flex flex-col items-start p-0 gap-[120px] max-md:w-[676px] max-sm:w-[400px]">
+        <div className="max-w-[1200px] m-auto flex flex-col items-start p-0 gap-[120px] max-sm:gap-[80px] max-md:w-[676px] max-sm:w-[400px]">
           {/*  */}
           <NavBar />
           {children}
