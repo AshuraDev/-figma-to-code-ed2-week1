@@ -10,7 +10,7 @@ const HeroSection = () => {
       {/* text div */}
       <div className=" flex flex-col items-start p-0 gap-[52px] absolute w-[787px] h-[390px] left-0 top-0 md:flex-col md:gap-[34px] max-sm:h-[981px]">
         <h1 className="font-normal text-[120px] leading-[108px] text-my_neutral-600 max-md-text-[82px] max-md:leading-[82px] max-sm:text-[52px]">
-          See the NFT new world
+          See the NFT<br />new world
         </h1>
         <p className="font-semibold text-[16px] leading-6 text-my_neutral-400 max-md-text-[14px] max-md:leading-[20px]">
           Vorem ipsum dolor sit amet, consectetur adipiscing <br />
