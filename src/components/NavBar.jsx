@@ -3,7 +3,7 @@ import { useState } from "react";
 import Image from "next/image";
 import LogoImage from "../assets/images/Frame.png";
 import menu from "../assets/icones/menu.png";
-import cross from "../assets/icones/cross.png";
+import cross from "../assets/icones/btn_x.png";
 import NavBarButtons from "./nav-bar-buttons";
 
 const NavBar = () => {
