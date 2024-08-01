@@ -6,9 +6,9 @@ import Hero_img3 from "../../../assets/images/Stars.png";
 
 const HeroSection = () => {
   return (
-    <section className="w-full h-[607px] relative max-md:h-[899px] overflow-hidden">
+    <section className="w-full h-[607px] relative max-md:h-[981px] overflow-hidden">
       {/* text div */}
-      <div className=" flex flex-col items-start p-0 gap-[52px] absolute w-[787px] h-[390px] left-0 top-0 md:flex-col md:gap-[34px] max-sm:h-[981px]">
+      <div className=" flex flex-col items-start p-0 gap-[52px] absolute w-[787px] h-[390px] left-0 top-0 md:flex-col max-sm:h-[981px]">
         <h1 className="font-normal text-[120px] leading-[108px] text-my_neutral-600 max-md-text-[82px] max-md:leading-[82px] max-sm:text-[52px]">
           See the NFT<br/>new world
         </h1>
@@ -31,7 +31,7 @@ const HeroSection = () => {
         </button>
       </div>
       {/* images div */}
-      <div className="flex flex-col items-start p-0 gap-[10px] absolute w-[596.89px] h-[588px] left-[603px] top-[19px] max-md:w-[596.79px] max-md:h-[588.19px] max-md:left-[calc(50%-596.79px/2+0.5px)] max-md:top-[311.1px]">
+      <div className="flex flex-col items-start p-0 gap-[10px] absolute w-[596.89px] h-[588px] left-[603px] top-[19px] max-md:w-[596.79px] max-md:h-[588.19px] max-md:left-[calc(50%-596.79px/2+0.5px)] max-md:top-[393px]">
         <div className="absolute w-[287.58px] h-[442.29px] left-0 top-[145.9px] rounded-[164px] overflow-hidden">
           <div className="relative h-full w-full top-0">
             <Image
