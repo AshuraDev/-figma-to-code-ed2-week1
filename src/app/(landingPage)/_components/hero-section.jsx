@@ -1,5 +1,5 @@
 import Image from "next/image";
-import ArrowIcon from "../../../assets/icones/Frame 126.svg";
+import ArrowIcon from "../../../assets/icones/arrow.svg";
 import Hero_img1 from "../../../assets/images/8machine-_-GVAYgLlpeZ8-unsplash.png";
 import Hero_img2 from "../../../assets/images/TOP-10-NFT-TOKENS-TO-KNOW-IN-2023-.png";
 import Hero_img3 from "../../../assets/images/Stars.png";
